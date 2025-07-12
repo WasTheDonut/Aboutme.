@@ -1,2 +1,2 @@
-# Aboutme.
-A lot of data about me ig.
+# About me!
+Still WIP for now. Trying to learn how to edit.
